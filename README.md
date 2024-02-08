@@ -1,13 +1,13 @@
 # My tech stack📚
-
+<!--
 ## Front_end
-<!--![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3) -->
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3) 
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)-->
 
 
 
-## Back_end
+## BackEnd
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -24,9 +24,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<!--
 ## Cloud
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
-<!--
+
 # Hi I'm kangbyhyun
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-#232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
