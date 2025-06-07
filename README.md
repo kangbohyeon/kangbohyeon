@@ -24,7 +24,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" > 🏆 Algorithm & Problem Solving</h2>
     <br/>
          <div > 
-            <img src="http://mazassumnida.wtf/api/generate_badge?boj=qhgus535)](https://solved.ac/qhgus535"/><br/>
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qhgus535"/><br/>
          </div>
 </div>
 
