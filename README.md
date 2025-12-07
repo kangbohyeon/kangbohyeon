@@ -21,10 +21,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangbohyeon&layout=compact&bg_color=180,00000000,00000000&title_color=74a7fe&text_color=74a7fe&exclude_repo=git-algorithm-study,bitclass,javascript200,react200,technology-react&hide=jupyternotebook,html,css,scss"/> <br/>
         <!--<img src="https://streak-stats.demolab.com/?user=kangbohyeon&theme=dark)](https://git.io/streak-stats"/><br/>-->
       </div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" > 🏆 Algorithm & Problem Solving</h2>
+    <!-- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" > 🏆 Algorithm & Problem Solving</h2>
     <br/>
          <div > 
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qhgus535"/><br/>
-         </div>
+         </div> -->
 </div>
 
